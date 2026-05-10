@@ -2,13 +2,20 @@
 
 [Food Data set]("https://corgis-edu.github.io/corgis/csv/food/") 
 
-* What would be the cheapest item with the most health benfits
-    * looking at the pricing of the foods and the health benifits
 * What Should people be eating in their daily lives according to the data
+[Where I got the Stats]("https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator")
+# Stats I'm using for men 
+* Age:20 year old 
+* Height: 5 ft. 4 in
+* Weight: 168.9 lbs.
+* Activity Level: Active
 
-[Broadway]("https://corgis-edu.github.io/corgis/csv/broadway/")
+# Stats I'm using for Women 
+* Age:20 year old 
+* Height: 5 ft. 4 in
+* Weight: 168.9 lbs.
+* Activity Level: Active
 
-* How much more popular are musicals than plays
-* Does price of ticket directly correlate to number of attendance 
+[Dairy Informaiton Link]("https://www.health.harvard.edu/blog/dairy-health-food-or-health-risk-2019012515849 ")
 
 **This bold**
